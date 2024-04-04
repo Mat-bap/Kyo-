@@ -26,14 +26,14 @@ const styles = StyleSheet.create({
       backgroundColor: '#fff',
       borderTopLeftRadius: 15,
       borderTopRightRadius: 15,
-      marginTop: 250
+      marginTop: 325
   }, 
   txt:{
-      fontSize: 35,
+      fontSize: 43,
       textAlign: 'center'
   },
   txtSm:{
-      fontSize: 18,
+      fontSize: 22,
       textAlign: 'center'
   },
 
